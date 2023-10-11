@@ -3,7 +3,7 @@
 <p align='left'>I am a Software Engineer focused on Flutter💙 and Javascript, a problem solver</p>
 
 
-<p align='center'>
+<p align='left'>
 <a href="mailto:princeisah15@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
