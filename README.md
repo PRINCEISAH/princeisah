@@ -2,7 +2,7 @@
 
 <h1 align='center'>Hi</h1>
 
-<p align='right'>I am a Software Engineer focused on Flutter💙 and Javascript <img src="https://gpvc.arturio.dev/jideguru" /></p>
+<p align='left'>I am a Software Engineer focused on Flutter💙 and Javascript /></p>
 
 
 <p align='center'>
