@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<h1 align='center'>Hi</h1>
-
-<p align='left'>I am a Software Engineer focused on Flutter💙 and Javascript /></p>
+<p align='left'>I am a Software Engineer focused on Flutter💙 and Javascript, a problem solver</p>
 
 
 <p align='center'>
