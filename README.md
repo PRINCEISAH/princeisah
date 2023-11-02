@@ -18,11 +18,6 @@
 </a>&nbsp;&nbsp; -->
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeisah&theme=onedark" alt="princeisah" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeisah&label=Profile%20views&color=0e75b6&style=flat" alt="princeisah" /> </p>
-
-
-- 👯 I’m looking to collaborate on Cool projects...
-- 🤔 I’m looking for help with flutter animation..
 - 💬 Ask me about  Dart language, flutter...
 
 
