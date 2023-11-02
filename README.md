@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp; -->
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeisah&theme=onedark" alt="princeisah" /></a> </p>
 
 - 👯 I’m looking to collaborate on Cool projects...
 - 🤔 I’m looking for help with flutter animation..
