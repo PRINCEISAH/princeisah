@@ -48,7 +48,7 @@
 			</td>
 			<td>
 				<a href="https://github.com/PRINCEISAH/order-tracker">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=order-track&theme=dracula" alt="order-track" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=order-tracker&theme=dracula" alt="order-track" />
 				</a>
 			</td>
 			<td>
