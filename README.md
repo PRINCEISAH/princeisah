@@ -43,7 +43,7 @@
 		<tr>
 			<td>
 				<a href="https://github.com/PRINCEISAH/restaurant-finder">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=PAC-MAN&theme=dracula" alt="restaurant-finder" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=restaurant-finder&theme=dracula" alt="restaurant-finder" />
 				</a>
 			</td>
 			<td>
