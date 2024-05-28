@@ -57,6 +57,40 @@
 				</a>
 			</td>
 		</tr>
+
+  <tr>
+			<th>Animated Pendulum</th>	
+			<th>.</th>	
+			<th>.</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://raw.githubusercontent.com/PRINCEISAH/Animated-Pendulum/main/readme_assets/ScreenRecording2024-05-27at12.54.16-ezgif.com-video-to-gif-converter.gif" alt="pendulum"></img>
+			</td>
+			<td>
+				<img src="."></img>
+			</td>
+			<td>
+			<img src=""></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/PRINCEISAH/Animated-Pendulum">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=Animated-Pendulum&theme=dracula" alt="Animated-Pendulum" />
+				</a>
+			</td>
+			<td>
+				<a href="">
+					<img src="" />
+				</a>
+			</td>
+			<td>
+				<a href="">
+					<img src="" />
+				</a>
+			</td>
+		</tr>
 	
 		
 	</tbody>
