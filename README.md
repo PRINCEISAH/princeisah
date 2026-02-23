@@ -124,13 +124,3 @@ I’m actively exploring and building with AI, focusing on **practical, user-fac
 * Fintech, automation & real-world problem solving
 * Clean, scalable mobile architecture
 
----
-
-If you want, I can:
-
-* Add **AI project ideas** to this profile
-* Write a **strong AI-focused bio** for recruiters
-* Create a **“Featured AI Projects”** section
-* Align this with **fintech + AI positioning**
-
-Just say the word 👊
