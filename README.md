@@ -1,9 +1,8 @@
-
-## 👋 Hi there, I’m Isah Audu
+## 👋 Hi there, I’m Audu Isah
 
 <p align="left">
-I’m a <strong>Software Engineer</strong> focused on building high-quality mobile experiences using <strong>Flutter 💙</strong>, <strong>JavaScript</strong>, and <strong>AI-powered solutions</strong>.  
-I enjoy solving real-world problems, crafting smooth UI animations, and integrating intelligent systems that enhance user experience.
+I’m a <strong>Senior Software Engineer</strong> focused on building high-quality mobile experiences using <strong>Flutter 💙</strong>, <strong>Dart</strong>, and <strong>AI-powered solutions</strong>.  
+With over 6 years of experience, I specialize in integrating generative AI into mobile workflows, crafting intelligent systems, and building scalable, clean architectures.
 </p>
 
 ---
@@ -34,28 +33,58 @@ I enjoy solving real-world problems, crafting smooth UI animations, and integrat
 
 ### 💬 Ask me about
 
-* Dart & Flutter
-* Mobile UI animations
-* AI-powered mobile features
-* ML API integration (recommendations, chat, automation)
-* Clean architecture & scalable apps
+* **Flutter & Dart:** Advanced mobile development & Clean Architecture.
+* **AI Integration:** Implementing Google Gemini API in mobile apps.
+* **Generative AI:** Prompt engineering for text, image, and video workflows.
+* **Scalable Systems:** Building production-ready, stable enterprise mobile apps.
 
 ---
 
-## 🧠 AI & Intelligent Features
+## 🤖 AI & Intelligent Solutions
 
-I’m actively exploring and building with AI, focusing on **practical, user-facing intelligence**, including:
+I am actively bridging the gap between mobile engineering and **Applied AI**, creating tools that make intelligence feel native to the user experience.
 
-* 🤖 AI-assisted features in mobile apps
-* 🧠 Integrating ML/AI APIs into Flutter applications
-* 📊 Intelligent automation & decision support
-* 💬 Chat-based and recommendation-driven experiences
+<table>
+  <tr>
+    <th>Gemini Workout Generator</th>
+    <th>AI Storytelling (ForeverUsAi)</th>
+    <th>Gemini API Integration</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://private-user-images.githubusercontent.com/37813957/539099509-686a6404-ffe7-4f9a-8125-502aacab821d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyMjI0ODAsIm5iZiI6MTc3MzIyMjE4MCwicGF0aCI6Ii8zNzgxMzk1Ny81MzkwOTk1MDktNjg2YTY0MDQtZmZlNy00ZjlhLTgxMjUtNTAyYWFjYWI4MjFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzExVDA5NDMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmNTdiMDk4ZWQyYmRkMjQ0ZDk1YWE5YTNkMTRlMDk5MTcxNTBhMjQzYjJjNGI0MGNlNTM3YjYwNmMyZTQwMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.o-_geaWqf3wpxLC7E5c9r4SWzPRDirHTSK5Wskxqk7k" />
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/400x200?text=AI+Storytelling+Workflow" />
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/400x200?text=Gemini+Flutter+SDK" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/PRINCEISAH/gemini-workout-generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=gemini-workout-generator&theme=dracula" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PRINCEISAH/ForeverUsAi-Tools">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=ForeverUsAi-Tools&theme=dracula" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PRINCEISAH/flutter-gemini-starter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=flutter-gemini-starter&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-> I believe AI should feel invisible — enhancing the product without complicating the user experience.
+> "I believe AI should feel invisible — enhancing the product without complicating the user experience."
 
 ---
 
-## 🎨 UI Challenges & Animations
+## 📱 Mobile Portfolio
 
 <table>
   <tr>
@@ -95,32 +124,8 @@ I’m actively exploring and building with AI, focusing on **practical, user-fac
 
 ---
 
-### 🌀 Animation Experiments
-
-<table>
-  <tr>
-    <th>Animated Pendulum</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/PRINCEISAH/Animated-Pendulum/main/readme_assets/ScreenRecording2024-05-27at12.54.16-ezgif.com-video-to-gif-converter.gif" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/PRINCEISAH/Animated-Pendulum">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=Animated-Pendulum&theme=dracula" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🚀 Current Focus
 
-* AI-enhanced Flutter applications
-* Intelligent UX & personalization
-* Fintech, automation & real-world problem solving
-* Clean, scalable mobile architecture
-
+* **AI-Enhanced Flutter Apps:** Building smarter, context-aware mobile interfaces.
+* **Gemini API Workflows:** Optimizing prompt engineering for mobile-first agents.
+* **Scalable Architecture:** Refining patterns for high-stability production releases.
