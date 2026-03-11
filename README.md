@@ -2,7 +2,7 @@
 
 <p align="left">
 I’m a <strong>Senior Software Engineer</strong> focused on building high-quality mobile experiences using <strong>Flutter 💙</strong>, <strong>Dart</strong>, and <strong>AI-powered solutions</strong>.  
-With over 6 years of experience, I specialize in integrating generative AI into mobile workflows, crafting intelligent systems, and building scalable, clean architectures.
+With over 8 years of experience, I specialize in integrating generative AI into mobile workflows, crafting intelligent systems, and building scalable, clean architectures.
 </p>
 
 ---
