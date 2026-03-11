@@ -63,8 +63,8 @@ I am actively bridging the gap between mobile engineering and **Applied AI**, cr
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/PRINCEISAH/gemini-workout-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=gemini-workout-generator&theme=dracula" />
+      <a href="https://github.com/PRINCEISAH/workout-app-gemini">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=princeisah&repo=workout-app-gemini&theme=dracula" />
       </a>
     </td>
     <td>
